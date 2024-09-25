@@ -10,3 +10,6 @@ function saudacaoPara(nome) {
 }
 
 saudacaoPara('Lucas');
+saudacaoPara('Maria');
+saudacaoPara('José');
+saudacaoPara('Ana');
