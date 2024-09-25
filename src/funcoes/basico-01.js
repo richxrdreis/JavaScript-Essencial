@@ -5,4 +5,8 @@ function saudacao() {
 
 saudacao();
 
-function saudacaoPara(nome) {}
+function saudacaoPara(nome) {
+    console.log(`Olá, ${nome}!`);
+}
+
+saudacaoPara('Lucas');
